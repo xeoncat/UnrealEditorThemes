@@ -40,7 +40,7 @@
 		"EStyleColor::AccentRed": "(R=1.000000,G=0.051269,B=0.051269,A=1.000000)",
 		"EStyleColor::AccentOrange": "(R=0.991102,G=0.327778,B=0.002125,A=1.000000)",
 		"EStyleColor::AccentYellow": "(R=1.000000,G=0.715693,B=0.010330,A=1.000000)",
-		"EStyleColor::AccentGreen": "(R=1.000000,G=0.250000,B=0.000000,A=1.000000)",
+		"EStyleColor::AccentGreen": "(R=0.000000,G=0.250000,B=1.000000,A=1.000000)",
 		"EStyleColor::AccentBrown": "(R=0.215861,G=0.074214,B=0.040915,A=1.000000)",
 		"EStyleColor::AccentBlack": "(R=0.017642,G=0.017642,B=0.017642,A=1.000000)",
 		"EStyleColor::AccentGray": "(R=0.200000,G=0.200000,B=0.400000,A=1.000000)",
